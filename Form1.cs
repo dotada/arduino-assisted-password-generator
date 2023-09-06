@@ -64,6 +64,7 @@ namespace arduinopasswordmanager
         {
             passwd = "";
             textBox2.Text = "Password length: " + trackBar1.Value.ToString();
+            sb.Clear();
             if (checkBox1.Checked)
             {
                 sb.Append(alpha);
