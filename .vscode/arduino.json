@@ -1,6 +1,0 @@
-{
-    "sketch": "rnggen.ino",
-    "board": "arduino:avr:uno",
-    "port": "COM3",
-    "programmer": "avrisp"
-}
